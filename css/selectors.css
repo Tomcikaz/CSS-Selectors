@@ -60,6 +60,29 @@ border-radius: .5em;
   background-color: #ff784f;
 }
 
+@media (min-width: 769px) {
+  .inln {
+    width:auto;
+    display:inline-block;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
