@@ -53,8 +53,12 @@ border-radius: .5em;
   opacity: .75;
 }
 
-
-
+.default {
+  background-color: #52bab3;
+}
+.error {
+  background-color: #ff784f;
+}
 
 
 
