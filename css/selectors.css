@@ -15,11 +15,8 @@ background: #ace;
 }
 
 
-input[type='button'],
-input[type='reset'],
-input[type='submit'] {
-  cursor: pointer;
-}
+
+
 a[target='_blank'] {
 color: #39add1;
   text-decoration: none;
@@ -43,7 +40,18 @@ border-radius: .5em;
 }
 
 
-
+.btn {
+  cursor: pointer;
+  font-size: .875em;
+  font-weight: 400;
+  color: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-transform: uppercase;
+}
+.btn:hover {
+  opacity: .75;
+}
 
 
 
